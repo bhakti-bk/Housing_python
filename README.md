@@ -1,2 +1,2 @@
 # Housing_python
-This Housing Project is useful for making Prediction 
+This Housing Project is useful for making Predictions
