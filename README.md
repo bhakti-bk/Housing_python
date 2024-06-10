@@ -1,2 +1,2 @@
 # Housing_python
-This Housing Project is useful for making Prediction 
+We have collect and Analyze data for predictions using python libraries.
